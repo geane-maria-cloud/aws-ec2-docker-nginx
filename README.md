@@ -19,7 +19,7 @@ Visualização da instância `web-server` em execução na região de Oregon (us
 
 ### 2. Configuração via Terminal (SSH & Docker)
 Acesso remoto à instância, atualização do sistema, instalação do Docker e execução do container Nginx mapeando a porta 80.
-![Configuração Terminal](CAP.2.jpg)
+![Configuração Terminal](CAP.2.png)
 
 ---
 
