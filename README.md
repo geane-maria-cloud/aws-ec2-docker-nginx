@@ -25,7 +25,7 @@ Acesso remoto à instância, atualização do sistema, instalação do Docker e 
 
 ### 3. Resultado Final: Servidor Online
 Página padrão do Nginx acessível através do IP público da instância, confirmando o sucesso da configuração.
-![Servidor Online](CAP1.png)
+![Servidor Online](CAP.1.png)
 
 ---
 
